@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://angotahtuy.luisagottardo.co.uk/sitemap.xml
